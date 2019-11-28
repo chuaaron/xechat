@@ -104,19 +104,18 @@ li {
 }
 
 .content-reply-box li.odd .reply-content-box {
-    margin-left: 60px;
+    margin-left: 70px;
 }
 
 .content-reply-box li.even .reply-content-box {
-    margin-right: 60px;
+    margin-right: 70px;
 }
 
 .user-name {
     color: #999;
     margin-top: 5px;
     display: block;
-    text-align: center;
-    width: 45px;
+    width: 60px;
     white-space: nowrap;
     text-overflow: ellipsis;
     -o-text-overflow: ellipsis;

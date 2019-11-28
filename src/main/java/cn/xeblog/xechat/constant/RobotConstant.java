@@ -18,7 +18,7 @@ public interface RobotConstant {
     /**
      * 机器人名称
      */
-    String name = "小小毅";
+    String name = "鲁班大师";
     /**
      * 机器人头像
      */
@@ -26,5 +26,5 @@ public interface RobotConstant {
     /**
      * 机器人地理位置
      */
-    String address = "火星";
+    String address = "召唤师峡谷";
 }
